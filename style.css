@@ -35,7 +35,7 @@ p{
 #ultimateline{
     list-style: none;
     position: fixed;
-    right: 300px;
+    right: 300px auto;
     cursor:pointer;
 }
 
