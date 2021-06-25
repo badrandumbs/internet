@@ -21,6 +21,7 @@ p{
     margin: auto;
     font-size: 17px;
     line-height: 1.5;
+    font-family: 'Rajdhani', sans-serif;
 }
 
 #line{
@@ -29,4 +30,27 @@ p{
     width: 300px;
     margin: auto;
     margin-bottom: 30px;
+}
+
+#ultimateline{
+    list-style: none;
+    position: fixed;
+    right: 300px;
+    cursor:pointer;
+}
+
+.line1{
+    float:left;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 30px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.line1:hover{
+    background-color:beige;
+}
+
+h1{
+    font-family: 'Staatliches', cursive;
 }
