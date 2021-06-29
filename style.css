@@ -24,7 +24,7 @@ p{
     font-family: 'Rajdhani', sans-serif;
 }
 
-#line{
+.line{
     height: 7px;
     background-color: black;
     width: 300px;
@@ -45,4 +45,26 @@ p{
     padding-right: 10px;
     font-size: 30px;
     font-family: 'Shadows Into Light', cursive;
+}
+
+.line1:hover{
+    background-color:beige;
+}
+
+h1{
+    font-family: 'Staatliches', cursive;
+}
+
+a{
+    font-size: 25px;
+}
+a:hover{
+    background-color: darkblue;
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+#Writings{
+    margin-bottom: 50px;
 }
