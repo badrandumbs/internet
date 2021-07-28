@@ -68,3 +68,10 @@ a:hover{
 #Writings{
     margin-bottom: 50px;
 }
+html{
+    scroll-behavior: smooth;
+}
+
+#Contact iframe{
+width: 100%;
+}
